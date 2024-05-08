@@ -1,4 +1,4 @@
-#Landpage da Barbearia
+# Landpage da Barbearia
 
 Esta é uma aplicação React para uma landpage de uma barbearia. A landpage apresenta um design responsivo e inclui um recurso de alternância entre os modos claro e escuro, controlado por um botão.
 
